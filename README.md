@@ -6,7 +6,7 @@ This is a sample graphic design of ship I created this with illustrator
 ## Pictures
 
 <div style="text-align: center">
- <img src="https://github.com/MarzieMemarian/Eagle-logo/blob/master/screenshot/Eagle%20logo.jpg?raw=true" width="200"/>
+ <img src="https://github.com/MarzieMemarian/the-man/blob/master/screenshot/the%20man.jpg?raw=true" width="200"/>
 
 </div>
 ## Usage
